@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\unrealeditor\\inc\\magnetmechanicstp\\magnetmechanicstp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\magnetmechanicstpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\unrealeditor\\development\\magnetmechanicstp\\definitions.magnetmechanicstp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

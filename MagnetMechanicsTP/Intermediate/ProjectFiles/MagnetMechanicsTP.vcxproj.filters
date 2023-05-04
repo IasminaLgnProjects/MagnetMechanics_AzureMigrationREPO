@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MagnetMechanicsTP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MagnetMechanicsTP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MagnetMechanicsTPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MagnetMechanicsTP">
+      <UniqueIdentifier>{2DB5B23F-D26E-302A-A885-7EBD12F3E90E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MagnetMechanicsTP\MagnetMechanicsTP.Build.cs">
+      <Filter>Source\MagnetMechanicsTP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MagnetMechanicsTP\MagnetMechanicsTP.cpp">
+      <Filter>Source\MagnetMechanicsTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MagnetMechanicsTP\MagnetMechanicsTP.h">
+      <Filter>Source\MagnetMechanicsTP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MagnetMechanicsTP\MagnetMechanicsTPGameModeBase.cpp">
+      <Filter>Source\MagnetMechanicsTP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MagnetMechanicsTP\MagnetMechanicsTPGameModeBase.h">
+      <Filter>Source\MagnetMechanicsTP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

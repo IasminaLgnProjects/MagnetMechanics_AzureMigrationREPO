@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"K:\\UnrealProject\\MagnetMechanicsTP\\Source\\MagnetMechanicsTP\\MagnetMechanicsTP.Build.cs",
+		"K:\\UnrealProject\\MagnetMechanicsTP\\Source\\MagnetMechanicsTP.Target.cs",
+		"K:\\UnrealProject\\MagnetMechanicsTP\\Source\\MagnetMechanicsTPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

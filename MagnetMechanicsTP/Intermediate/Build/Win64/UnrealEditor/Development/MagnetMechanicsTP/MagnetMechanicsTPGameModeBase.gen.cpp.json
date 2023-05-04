@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\unrealeditor\\inc\\magnetmechanicstp\\magnetmechanicstpgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\magnetmechanicstpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\unrealeditor\\development\\magnetmechanicstp\\definitions.magnetmechanicstp.h",
+            "k:\\unrealproject\\magnetmechanicstp\\source\\magnetmechanicstp\\magnetmechanicstpgamemodebase.h",
+            "k:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "k:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "k:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "k:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "k:\\unrealproject\\magnetmechanicstp\\intermediate\\build\\win64\\unrealeditor\\inc\\magnetmechanicstp\\magnetmechanicstpgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
