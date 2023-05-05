@@ -76,3 +76,5 @@ DerivedDataCache/*
 MagnetMechanicsTP/Binaries/
 
 MagnetMechanicsTP/Intermediate/
+
+MagnetMechanicsTP/BuildConfiguration.xml.txt

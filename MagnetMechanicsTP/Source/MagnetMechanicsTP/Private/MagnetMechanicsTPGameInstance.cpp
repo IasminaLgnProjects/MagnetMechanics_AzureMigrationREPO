@@ -11,13 +11,14 @@
 #include "Blueprint/UserWidget.h"
 
 //Constructor
-UMagnetMechanicsTPGameInstance::UMagnetMechanicsTPGameInstance(const FObjectInitializer& ObjectInitializer)
+UMagnetMechanicsTPGameInstance::UMagnetMechanicsTPGameInstance(const FObjectInitializer & ObjectInitializer)
 {
 	//UE_LOG(LogTemp, Warning, TEXT("Game instance"));
 
 	//UI - Get a reference to the blueprint menu Widget 
 	// UPDATE IT WITH THE PATH OF THE WIDGET
-	ConstructorHelpers::FClassFinder<UUserWidget>MpMenuBPClass(TEXT("/Game/Content/UI/WBP_MultiplayerMenu.WBP_MultiplayerMenu_C"));
+	ConstructorHelpers::FClassFinder<UUserWidget> MpMenuBPClass(TEXT("/Game/WBP_MultiplayerMenu"));
+	//ConstructorHelpers::FClassFinder<UUserWidget> MpMenuBPClass(TEXT("/Game/Content/WBP_MultiplayerMenu.WBP_MultiplayerMenu_C"));
 	if (!ensure(MpMenuBPClass.Class != nullptr)) return;
 
 	MpMenuClass = MpMenuBPClass.Class;
@@ -38,7 +39,8 @@ void UMagnetMechanicsTPGameInstance::LoadMpMenu()
 
 	MpMenu->AddToViewport();
 
-	//DELETE In case of error (change name): MainMenu->bIsFocusable = true;
+	//DELETE In case of error (change name): 
+	MpMenu->bIsFocusable = true;
 
 	APlayerController* PlayerController = GetFirstLocalPlayerController();
 	if (!ensure(PlayerController != nullptr)) return;
