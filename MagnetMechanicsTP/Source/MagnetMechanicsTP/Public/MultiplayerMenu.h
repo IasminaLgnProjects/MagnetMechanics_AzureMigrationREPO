@@ -17,6 +17,9 @@ class MAGNETMECHANICSTP_API UMultiplayerMenu : public UUserWidget
 
 public:
 	void SetMenuInterface(IMenuInterface* MenuInterface);
+
+	void Setup();
+	void DeactivateMenu();
 	
 protected:
 	virtual bool Initialize();

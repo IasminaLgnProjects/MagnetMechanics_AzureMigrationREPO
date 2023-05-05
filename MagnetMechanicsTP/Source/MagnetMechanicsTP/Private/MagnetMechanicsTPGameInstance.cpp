@@ -9,7 +9,7 @@
 
 #include "UObject/ConstructorHelpers.h"
 #include "Blueprint/UserWidget.h"
-#include "MultiplayerMenu.h" //HERE = DELETE COMM
+#include "MultiplayerMenu.h" 
 
 //Constructor
 UMagnetMechanicsTPGameInstance::UMagnetMechanicsTPGameInstance(const FObjectInitializer & ObjectInitializer)
@@ -34,10 +34,12 @@ void UMagnetMechanicsTPGameInstance::LoadMpMenu()
 {
 	if (!ensure(MpMenuClass != nullptr)) return;
 	//UUserWidget* MpMenu = CreateWidget<UUserWidget>(this, MpMenuClass);
-	UMultiplayerMenu* MpMenu = CreateWidget<UMultiplayerMenu>(this, MpMenuClass);
+	//UMultiplayerMenu* MpMenu = CreateWidget<UMultiplayerMenu>(this, MpMenuClass);
+	MpMenu = CreateWidget<UMultiplayerMenu>(this, MpMenuClass);
 	if (!ensure(MpMenu != nullptr)) return;
 
-	MpMenu->AddToViewport();
+	/*
+		MpMenu->AddToViewport();
 	MpMenu->bIsFocusable = true;
 
 	APlayerController* PlayerController = GetFirstLocalPlayerController();
@@ -53,6 +55,9 @@ void UMagnetMechanicsTPGameInstance::LoadMpMenu()
 
 	//Make the cursor visible
 	PlayerController->bShowMouseCursor = true;
+	*/
+
+	MpMenu->Setup();
 
 	//Set the menu interface to the current instance
 	MpMenu->SetMenuInterface(this);
@@ -61,6 +66,12 @@ void UMagnetMechanicsTPGameInstance::LoadMpMenu()
 
 void UMagnetMechanicsTPGameInstance::Host()
 {
+	//First deactivate the menu so it does not have control over the input
+	if (MpMenu != nullptr)
+	{
+		MpMenu->DeactivateMenu();
+	}
+
 	UEngine* Engine = GetEngine();
 	if (!ensure(Engine != nullptr)) return;
 
@@ -69,7 +80,7 @@ void UMagnetMechanicsTPGameInstance::Host()
 	UWorld* World = GetWorld();
 	if (!ensure(World != nullptr)) return;
 
-	World->ServerTravel("/Game/ThirdPerson/Maps/MultiplayerMap?listen");
+	World->ServerTravel("/Game/ThirdPerson/Maps/MultiplayerMap?listen"); //The ServerTravel is called on the World and moves all players
 }
 
 void UMagnetMechanicsTPGameInstance::Join(const FString& Address)
@@ -82,5 +93,5 @@ void UMagnetMechanicsTPGameInstance::Join(const FString& Address)
 	APlayerController* PlayerController = GetFirstLocalPlayerController();
 	if (!ensure(PlayerController != nullptr)) return;
 
-	PlayerController->ClientTravel(Address, ETravelType::TRAVEL_Absolute);
+	PlayerController->ClientTravel(Address, ETravelType::TRAVEL_Absolute); //The ClientTravel is called on each player and moves them individually
 }

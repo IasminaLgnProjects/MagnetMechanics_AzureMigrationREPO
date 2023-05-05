@@ -32,4 +32,5 @@ public:
 private:
 	TSubclassOf<class UUserWidget> MpMenuClass;
 
+	class UMultiplayerMenu* MpMenu;
 };
