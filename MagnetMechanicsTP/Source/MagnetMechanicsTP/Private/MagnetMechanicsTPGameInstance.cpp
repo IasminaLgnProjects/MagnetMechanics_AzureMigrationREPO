@@ -9,6 +9,7 @@
 
 #include "UObject/ConstructorHelpers.h"
 #include "Blueprint/UserWidget.h"
+#include "MultiplayerMenu.h" //HERE = DELETE COMM
 
 //Constructor
 UMagnetMechanicsTPGameInstance::UMagnetMechanicsTPGameInstance(const FObjectInitializer & ObjectInitializer)
@@ -16,9 +17,7 @@ UMagnetMechanicsTPGameInstance::UMagnetMechanicsTPGameInstance(const FObjectInit
 	//UE_LOG(LogTemp, Warning, TEXT("Game instance"));
 
 	//UI - Get a reference to the blueprint menu Widget 
-	// UPDATE IT WITH THE PATH OF THE WIDGET
 	ConstructorHelpers::FClassFinder<UUserWidget> MpMenuBPClass(TEXT("/Game/WBP_MultiplayerMenu"));
-	//ConstructorHelpers::FClassFinder<UUserWidget> MpMenuBPClass(TEXT("/Game/Content/WBP_MultiplayerMenu.WBP_MultiplayerMenu_C"));
 	if (!ensure(MpMenuBPClass.Class != nullptr)) return;
 
 	MpMenuClass = MpMenuBPClass.Class;
@@ -34,19 +33,18 @@ void UMagnetMechanicsTPGameInstance::Init()
 void UMagnetMechanicsTPGameInstance::LoadMpMenu()
 {
 	if (!ensure(MpMenuClass != nullptr)) return;
-	UUserWidget* MpMenu = CreateWidget<UUserWidget>(this, MpMenuClass);
+	//UUserWidget* MpMenu = CreateWidget<UUserWidget>(this, MpMenuClass);
+	UMultiplayerMenu* MpMenu = CreateWidget<UMultiplayerMenu>(this, MpMenuClass);
 	if (!ensure(MpMenu != nullptr)) return;
 
 	MpMenu->AddToViewport();
-
-	//DELETE In case of error (change name): 
 	MpMenu->bIsFocusable = true;
 
 	APlayerController* PlayerController = GetFirstLocalPlayerController();
 	if (!ensure(PlayerController != nullptr)) return;
 
 	FInputModeUIOnly InputModeData;
-	//this function acts as a converter since it needs a SWidget but we use a UWidget (for the UMG)
+	//this function acts as a converter since it needs a SWidget but we use a UWidget (for the UMG):
 	InputModeData.SetWidgetToFocus(MpMenu->TakeWidget());
 	InputModeData.SetLockMouseToViewportBehavior(EMouseLockMode::DoNotLock);
 
@@ -55,6 +53,9 @@ void UMagnetMechanicsTPGameInstance::LoadMpMenu()
 
 	//Make the cursor visible
 	PlayerController->bShowMouseCursor = true;
+
+	//Set the menu interface to the current instance
+	MpMenu->SetMenuInterface(this);
 }
 
 

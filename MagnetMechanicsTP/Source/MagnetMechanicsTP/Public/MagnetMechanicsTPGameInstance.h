@@ -4,13 +4,14 @@
 
 #include "CoreMinimal.h"
 #include "Engine/GameInstance.h"
+#include "MenuInterface.h"
 #include "MagnetMechanicsTPGameInstance.generated.h"
 
 /**
  *
  */
 UCLASS()
-class MAGNETMECHANICSTP_API UMagnetMechanicsTPGameInstance : public UGameInstance
+class MAGNETMECHANICSTP_API UMagnetMechanicsTPGameInstance : public UGameInstance, public IMenuInterface
 {
 	GENERATED_BODY()
 public:
