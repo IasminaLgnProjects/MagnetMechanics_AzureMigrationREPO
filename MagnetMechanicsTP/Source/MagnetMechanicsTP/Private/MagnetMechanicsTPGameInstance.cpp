@@ -85,6 +85,12 @@ void UMagnetMechanicsTPGameInstance::Host()
 
 void UMagnetMechanicsTPGameInstance::Join(const FString& Address)
 {
+	//First deactivate the menu so it does not have control over the input
+	if (MpMenu != nullptr)
+	{
+		MpMenu->DeactivateMenu();
+	}
+
 	UEngine* Engine = GetEngine();
 	if (!ensure(Engine != nullptr)) return;
 

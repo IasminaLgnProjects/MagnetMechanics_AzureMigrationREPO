@@ -4,6 +4,7 @@
 #include "MultiplayerMenu.h"
 
 #include "Components/Button.h"
+#include "Components/EditableTextBox.h"
 
 bool UMultiplayerMenu::Initialize()
 {
@@ -13,6 +14,9 @@ bool UMultiplayerMenu::Initialize()
 	if (!ensure(Host != nullptr)) return false;
 	Host->OnClicked.AddDynamic(this, &UMultiplayerMenu::HostServer);
 
+	if (!ensure(Join != nullptr)) return false;
+	Join->OnClicked.AddDynamic(this, &UMultiplayerMenu::JoinServer);
+
 	return true;
 }
 
@@ -21,6 +25,7 @@ void UMultiplayerMenu::SetMenuInterface(IMenuInterface* OvrMenuInterface)
 	this->MenuInterface = OvrMenuInterface; //uses -> since the name is ambiguous (the property or the class)
 }
 
+//HOST
 void UMultiplayerMenu::HostServer()
 {
 	//UE_LOG(LogTemp, Warning, TEXT("Hosting a server"));
@@ -28,6 +33,20 @@ void UMultiplayerMenu::HostServer()
 		MenuInterface->Host();
 }
 
+//JOIN
+void UMultiplayerMenu::JoinServer()
+{
+	//UE_LOG(LogTemp, Warning, TEXT("Joining a server"));
+	if (MenuInterface != nullptr)
+	{
+		if (!ensure(IPField != nullptr)) return;
+		//FString Address = IPField->GetText().ToString();
+		const FString& Address = IPField->GetText().ToString();
+;		MenuInterface->Join(Address);
+	}	
+}
+
+//DISPLAY THE MENU
 void UMultiplayerMenu::Setup()
 {
 	this->AddToViewport();
@@ -51,6 +70,7 @@ void UMultiplayerMenu::Setup()
 	PlayerController->bShowMouseCursor = true;
 }
 
+//DEACTIVATE THE MENU SO THAT INPUTS WORK
 void UMultiplayerMenu::DeactivateMenu()
 {
 	this->RemoveFromViewport();
@@ -66,3 +86,4 @@ void UMultiplayerMenu::DeactivateMenu()
 
 	PlayerController->bShowMouseCursor = false;
 }
+

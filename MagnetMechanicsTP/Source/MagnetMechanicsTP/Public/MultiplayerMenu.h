@@ -25,14 +25,23 @@ protected:
 	virtual bool Initialize();
 
 private:
+	//UI
 	UPROPERTY(meta = (BindWidget))
 	class UButton* Host;
 
 	UPROPERTY(meta = (BindWidget))
 	class UButton* Join;
 
+	UPROPERTY(meta = (BindWidget))
+	class UEditableTextBox* IPField;
+	
+
+	//functions
 	UFUNCTION()
 	void HostServer();
+
+	UFUNCTION()
+	void JoinServer();
 
 	IMenuInterface* MenuInterface;
 };
