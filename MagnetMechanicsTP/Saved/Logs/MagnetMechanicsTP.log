@@ -1324,3 +1324,857 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.09-14.55.54:378][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
 [2023.05.09-14.55.56:608][344]LogSlate: Window 'Message Log' being destroyed
 [2023.05.09-14.55.56:613][344]LogSlate: Window 'Message Log' being destroyed
+[2023.05.09-15.05.28:680][870]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.09-15.05.29:640][920]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap:PersistentLevel.MultiplayerMap
+[2023.05.09-15.05.29:641][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.06.42:234][916]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalObjects__/ThirdPerson/Maps/MultiplayerMap/E/WS/CDN05SDAO9ZJSRQI91SBDE
+/Game/__ExternalActors__/ThirdPerson/Maps/MultiplayerMap/6/IO/C5556S062L6HIX8HTA40MM
+[2023.05.09-15.06.42:364][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.05.09-15.06.42:460][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.05.09-15.06.42:547][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.09-15.06.42:553][916]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/MultiplayerMap/E/WS/CDN05SDAO9ZJSRQI91SBDE
+[2023.05.09-15.06.42:555][916]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/CDN05SDAO9ZJSRQI91SBDE4F46A9D54AE0AC8462B7E7905350DD54.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/__ExternalObjects__/ThirdPerson/Maps/MultiplayerMap/E/WS/CDN05SDAO9ZJSRQI91SBDE.uasset'
+[2023.05.09-15.06.42:557][916]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalObjects__/ThirdPerson/Maps/MultiplayerMap/E/WS/CDN05SDAO9ZJSRQI91SBDE
+[2023.05.09-15.06.42:659][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.09-15.06.42:663][916]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MultiplayerMap
+[2023.05.09-15.06.42:664][916]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MultiplayerMap77CBD79E4734CCCC7B1F0CA8B89074F4.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/MultiplayerMap.umap'
+[2023.05.09-15.06.42:677][916]LogFileHelpers: Saving map 'MultiplayerMap' took 0.443
+[2023.05.09-15.06.42:703][916]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.09-15.06.42:703][916]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap:PersistentLevel.ActorFolder_UID_BEC58A5F-4C4125BF-8AB2CF95-11D9D9CF
+[2023.05.09-15.06.42:703][916]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap
+[2023.05.09-15.09.54:229][379]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Movies/Bg 1.mp3)
+[2023.05.09-15.09.54:236][379]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Movies/Bg 2.mp3)
+[2023.05.09-15.09.54:241][379]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Movies/Bg 3.mp3)
+[2023.05.09-15.09.54:247][379]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Movies/Bg 4.mp3)
+[2023.05.09-15.09.55:167][423]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Movies/Bg_2.Bg_2
+[2023.05.09-15.11.54:255][ 74]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.05.09-15.11.54:255][ 74]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.05.09-15.12.02:593][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.09-15.12.03:616][553]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.09-15.12.03:696][553]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Movies/Bg_2.Bg_2
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Movies/Bg_1.Bg_1
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Movies/Bg_4.Bg_4
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Movies/Bg_3.Bg_3
+	Asset Type: FileMediaSource
+[2023.05.09-15.12.04:511][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.05.09-15.12.04:593][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.05.09-15.12.04:673][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.09-15.16.28:785][ 96]AssetReimport: New page: Outstanding source content changes 17:16:28
+[2023.05.09-15.16.28:937][ 96]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 1.wav)
+[2023.05.09-15.16.34:171][ 97]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 2.wav)
+[2023.05.09-15.16.34:434][ 98]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 3.wav)
+[2023.05.09-15.16.34:742][ 99]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 4.wav)
+[2023.05.09-15.16.35:362][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_1" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_1.uasset" SILENT=true
+[2023.05.09-15.16.35:408][100]LogSavePackage: Moving output files for package: /Game/Audio/Bg_1
+[2023.05.09-15.16.35:408][100]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_1ACBC0959435A90FC354A00B019F674CA.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_1.uasset'
+[2023.05.09-15.16.35:413][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_2" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_2.uasset" SILENT=true
+[2023.05.09-15.16.35:416][100]LogSavePackage: Moving output files for package: /Game/Audio/Bg_2
+[2023.05.09-15.16.35:416][100]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_29529C9ED41B9DAB98AEA1898FBE158D4.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_2.uasset'
+[2023.05.09-15.16.35:421][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_3" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_3.uasset" SILENT=true
+[2023.05.09-15.16.35:424][100]LogSavePackage: Moving output files for package: /Game/Audio/Bg_3
+[2023.05.09-15.16.35:424][100]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_3B6FC500740D59927DDA9348A4515EBAA.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_3.uasset'
+[2023.05.09-15.16.35:431][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_4" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_4.uasset" SILENT=true
+[2023.05.09-15.16.35:434][100]LogSavePackage: Moving output files for package: /Game/Audio/Bg_4
+[2023.05.09-15.16.35:434][100]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_44BBD9AA14B551FB2B94FE1A9D9A884F9.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_4.uasset'
+[2023.05.09-15.16.35:466][101]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.09-15.16.35:466][101]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_4.Bg_4
+[2023.05.09-15.16.35:466][101]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_3.Bg_3
+[2023.05.09-15.16.35:467][101]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_2.Bg_2
+[2023.05.09-15.16.35:467][101]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_1.Bg_1
+[2023.05.09-15.16.38:478][218]AssetReimport: Importing new asset /Game/Audio/Bg_1.
+[2023.05.09-15.16.38:478][218]AssetReimport: Importing new asset /Game/Audio/Bg_2.
+[2023.05.09-15.16.38:478][218]AssetReimport: Importing new asset /Game/Audio/Bg_3.
+[2023.05.09-15.16.38:478][218]AssetReimport: Importing new asset /Game/Audio/Bg_4.
+[2023.05.09-15.16.54:398][132]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.16.54:399][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.16.58:040][326]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.16.58:040][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.16.58:055][326]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.16.58:055][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.16.58:150][326]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.16.58:150][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.02:625][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.05.09-15.17.04:867][578]LogSlate: Window 'Save Content' being destroyed
+[2023.05.09-15.17.04:975][578]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuLevel.MainMenuLevel
+[2023.05.09-15.17.04:976][578]Cmd: MAP LOAD FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.09-15.17.04:976][578]LightingResults: New page: Lighting Build
+[2023.05.09-15.17.04:976][578]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.05.09-15.17.04:981][578]LogWorld: UWorld::CleanupWorld for MultiplayerMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.04:982][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.04:989][578]MapCheck: New page: Map Check
+[2023.05.09-15.17.04:989][578]LightingResults: New page: Lighting Build
+[2023.05.09-15.17.05:074][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.17.05:118][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.05.09-15.17.05:135][578]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.05:135][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.05:200][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.09-15.17.05:262][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.05.09-15.17.05:276][578]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.05.09-15.17.05:276][578]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.17.05:276][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.17.05:277][578]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.17.05:282][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.17.05:348][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.05.09-15.17.05:364][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.17.05:364][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2023.05.09-15.17.05:364][578]LogFileHelpers: Loading map 'MainMenuLevel' took 0.389
+[2023.05.09-15.17.08:164][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.09-15.17.08:166][733]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenuLevel.MainMenuLevel
+[2023.05.09-15.17.08:166][733]Cmd: MAP LOAD FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.09-15.17.08:166][733]LightingResults: New page: Lighting Build
+[2023.05.09-15.17.08:166][733]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.05.09-15.17.08:194][733]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.08:194][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.08:194][733]MapCheck: New page: Map Check
+[2023.05.09-15.17.08:194][733]LightingResults: New page: Lighting Build
+[2023.05.09-15.17.08:252][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.17.08:256][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.05.09-15.17.08:262][733]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.05.09-15.17.08:263][733]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.17.08:263][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.17.08:263][733]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.17.08:268][733]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.17.08:335][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.09-15.17.08:344][733]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.17.08:344][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2023.05.09-15.17.08:344][733]LogFileHelpers: Loading map 'MainMenuLevel' took 0.178
+[2023.05.09-15.17.09:146][778]LogSlate: Window 'BP_Char' being destroyed
+[2023.05.09-15.17.09:151][778]LogSlate: Window 'BP_Char' being destroyed
+[2023.05.09-15.17.09:162][778]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.09:163][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.09:179][778]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.09:179][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.09:246][778]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.09:246][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.09:263][778]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.09:263][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.09:332][778]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.17.09:332][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.17.12:522][958]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2023.05.09-15.17.12:522][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.17.52:326][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.05.09-15.17.52:346][976]LogSavePackage: Moving output files for package: /Game/MainMenuLevel
+[2023.05.09-15.17.52:346][976]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MainMenuLevel47695DBB44210895C97E489FE4CFF71E.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/MainMenuLevel.umap'
+[2023.05.09-15.17.52:360][976]LogFileHelpers: Saving map 'MainMenuLevel' took 0.134
+[2023.05.09-15.17.52:376][976]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.09-15.17.52:376][976]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2023.05.09-15.17.53:116][ 21]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.09-15.17.53:234][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.05.09-15.17.54:580][ 96]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.09-15.17.54:589][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.09-15.17.54:589][ 96]PIE: New page: PIE session: MainMenuLevel (9 May 2023, 17:17:54)
+[2023.05.09-15.17.54:589][ 96]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.17.54:594][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003621s)
+[2023.05.09-15.17.54:594][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003726s)
+[2023.05.09-15.17.54:594][ 96]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.17.54:594][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.17.54:594][ 96]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.17.54:595][ 96]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2023.05.09-15.17.54:628][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.09-15.17.54:631][ 96]LogTemp: Warning: Found class WBP_MultiplayerMenu_C
+[2023.05.09-15.17.54:631][ 96]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.09-15.17.54:631][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.09-15.17.54:631][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.09-15.17.54:632][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.09-15.17.54:632][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.09-15.17.54:632][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.09-15.17.54:634][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.09-15.17.54:655][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.09-15.17.54:655][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.09-15.17.54:655][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.09-15.17.54:656][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.09-15.17.54:656][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.09-15.17.54:656][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.09-15.17.54:658][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.09-15.17.54:658][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.09-15.17.54:658][ 96]LogInit: FAudioDevice initialized.
+[2023.05.09-15.17.54:658][ 96]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2023.05.09-15.17.54:697][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.17.54:698][ 96]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.17.54:699][ 96]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.17.54
+[2023.05.09-15.17.54:699][ 96]LogWorld: Bringing up level for play took: 0.001026
+[2023.05.09-15.17.54:701][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.05.09-15.17.54:703][ 96]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.09-15.17.54:703][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.09-15.17.54:707][ 96]PIE: Server logged in
+[2023.05.09-15.17.54:709][ 96]PIE: Play in editor total start time 0.12 seconds.
+[2023.05.09-15.17.54:751][ 96]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2023.05.09-15.18.09:401][966]LogNet: Browse: /Game/OptionsLevel
+[2023.05.09-15.18.09:401][966]LogLoad: LoadMap: /Game/OptionsLevel
+[2023.05.09-15.18.09:401][966]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.18.09:401][966]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.18.09:402][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.18.09:457][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.18.09:461][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.09-15.18.09:471][966]LogAudio: Display: Audio Device (ID: 5) registered with world 'OptionsLevel'.
+[2023.05.09-15.18.09:471][966]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.18.09:472][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.18.09:473][966]LogAIModule: Creating AISystem for world OptionsLevel
+[2023.05.09-15.18.09:473][966]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2023.05.09-15.18.09:473][966]LogLoad: Game class is 'OptionsGameMode_C'
+[2023.05.09-15.18.09:473][966]LogWorld: Bringing World /Game/UEDPIE_0_OptionsLevel.OptionsLevel up for play (max tick rate 60) at 2023.05.09-16.18.09
+[2023.05.09-15.18.09:473][966]LogWorld: Bringing up level for play took: 0.000529
+[2023.05.09-15.18.09:473][966]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.09-15.18.09:476][966]LogLoad: Took 0.075466 seconds to LoadMap(/Game/OptionsLevel)
+[2023.05.09-15.18.12:675][156]LogViewport: Scene viewport resized to 1914x980, mode Fullscreen.
+[2023.05.09-15.18.12:699][156]LogViewport: Scene viewport resized to 1907x930, mode Fullscreen.
+[2023.05.09-15.18.15:391][317]LogNet: Browse: /Game/MainMenuLevel
+[2023.05.09-15.18.15:391][317]LogLoad: LoadMap: /Game/MainMenuLevel
+[2023.05.09-15.18.15:391][317]LogWorld: BeginTearingDown for /Game/UEDPIE_0_OptionsLevel
+[2023.05.09-15.18.15:392][317]LogWorld: UWorld::CleanupWorld for OptionsLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.18.15:392][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.18.15:445][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.18.15:448][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.09-15.18.15:450][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.18.15:452][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002345s)
+[2023.05.09-15.18.15:452][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002441s)
+[2023.05.09-15.18.15:452][317]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2023.05.09-15.18.15:452][317]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.18.15:452][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.18.15:453][317]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.18.15:453][317]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2023.05.09-15.18.15:453][317]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.18.15:454][317]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.18.15
+[2023.05.09-15.18.15:454][317]LogWorld: Bringing up level for play took: 0.000680
+[2023.05.09-15.18.15:455][317]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.09-15.18.15:456][317]LogLoad: Took 0.064959 seconds to LoadMap(/Game/UEDPIE_0_MainMenuLevel)
+[2023.05.09-15.18.16:883][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.18.16:883][401]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.18.16:883][401]LogSlate: Window 'MagnetMechanicsTP Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.09-15.18.16:890][401]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.18.16:890][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.18.16:902][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.09-15.18.16:907][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.18.16:942][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.09-15.18.16:943][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.09-15.18.16:951][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.09-15.18.16:970][402]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.05.09-15.18.21:241][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.09-15.18.21:250][647]LogSavePackage: Moving output files for package: /Game/MainMenuLevel
+[2023.05.09-15.18.21:251][647]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MainMenuLevel60EABDA04D6D8673F11B0296DCCA1339.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/MainMenuLevel.umap'
+[2023.05.09-15.18.21:263][647]LogFileHelpers: Saving map 'MainMenuLevel' took 0.060
+[2023.05.09-15.18.21:276][647]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.09-15.18.21:276][647]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2023.05.09-15.18.28:420][ 72]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.09-15.18.28:475][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.09-15.18.29:540][130]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.09-15.18.29:548][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.09-15.18.29:548][130]PIE: New page: PIE session: MainMenuLevel (9 May 2023, 17:18:29)
+[2023.05.09-15.18.29:548][130]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.18.29:553][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003723s)
+[2023.05.09-15.18.29:553][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003835s)
+[2023.05.09-15.18.29:553][130]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.18.29:553][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.18.29:553][130]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.18.29:554][130]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2023.05.09-15.18.29:589][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.09-15.18.29:590][130]LogTemp: Warning: Found class WBP_MultiplayerMenu_C
+[2023.05.09-15.18.29:590][130]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.09-15.18.29:590][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.09-15.18.29:590][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.09-15.18.29:591][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.09-15.18.29:591][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.09-15.18.29:591][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.09-15.18.29:592][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.09-15.18.29:609][130]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.09-15.18.29:609][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.09-15.18.29:609][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.09-15.18.29:609][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.09-15.18.29:610][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.09-15.18.29:610][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.09-15.18.29:612][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.09-15.18.29:612][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.09-15.18.29:612][130]LogInit: FAudioDevice initialized.
+[2023.05.09-15.18.29:612][130]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenuLevel'.
+[2023.05.09-15.18.29:656][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.18.29:657][130]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.18.29:658][130]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.18.29
+[2023.05.09-15.18.29:658][130]LogWorld: Bringing up level for play took: 0.001109
+[2023.05.09-15.18.29:660][130]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.05.09-15.18.29:664][130]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.09-15.18.29:664][130]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.09-15.18.29:666][130]PIE: Server logged in
+[2023.05.09-15.18.29:668][130]PIE: Play in editor total start time 0.12 seconds.
+[2023.05.09-15.18.29:709][130]LogViewport: Scene viewport resized to 1909x940, mode Windowed.
+[2023.05.09-15.18.34:903][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.18.34:903][434]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.18.34:904][434]LogSlate: Window 'MagnetMechanicsTP Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.09-15.18.34:909][434]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.18.34:909][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.18.34:923][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.09-15.18.34:929][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.18.34:966][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.09-15.18.34:969][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.09-15.18.34:978][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.05.09-15.18.35:001][435]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.05.09-15.20.10:655][ 30]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.09-15.20.10:664][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.09-15.20.10:664][ 30]PIE: New page: PIE session: MainMenuLevel (9 May 2023, 17:20:10)
+[2023.05.09-15.20.10:665][ 30]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.20.10:669][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003937s)
+[2023.05.09-15.20.10:669][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004063s)
+[2023.05.09-15.20.10:669][ 30]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.20.10:669][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.20.10:670][ 30]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.20.10:670][ 30]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2023.05.09-15.20.10:713][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.09-15.20.10:714][ 30]LogTemp: Warning: Found class WBP_MultiplayerMenu_C
+[2023.05.09-15.20.10:714][ 30]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.09-15.20.10:714][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.09-15.20.10:714][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.09-15.20.10:714][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.09-15.20.10:714][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.09-15.20.10:714][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.09-15.20.10:716][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.09-15.20.10:733][ 30]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.09-15.20.10:733][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.09-15.20.10:733][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.09-15.20.10:733][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.09-15.20.10:734][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.09-15.20.10:734][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.09-15.20.10:736][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.09-15.20.10:736][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.09-15.20.10:736][ 30]LogInit: FAudioDevice initialized.
+[2023.05.09-15.20.10:736][ 30]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenuLevel'.
+[2023.05.09-15.20.10:778][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.20.10:779][ 30]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.20.10:780][ 30]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.20.10
+[2023.05.09-15.20.10:780][ 30]LogWorld: Bringing up level for play took: 0.001047
+[2023.05.09-15.20.10:783][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.05.09-15.20.10:785][ 30]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.09-15.20.10:785][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.09-15.20.10:788][ 30]PIE: Server logged in
+[2023.05.09-15.20.10:791][ 30]PIE: Play in editor total start time 0.126 seconds.
+[2023.05.09-15.20.10:825][ 30]LogViewport: Scene viewport resized to 1911x950, mode Windowed.
+[2023.05.09-15.20.14:574][232]AssetReimport: New page: Outstanding source content changes 17:20:14
+[2023.05.09-15.20.14:602][233]LogAudioEditor: Performing atomic reimport of [C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 1.wav]
+[2023.05.09-15.20.14:755][233]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 1.wav)
+[2023.05.09-15.20.20:114][233]LogAudioEditor: -- imported successfully
+[2023.05.09-15.20.25:778][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_1" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_1.uasset" SILENT=true
+[2023.05.09-15.20.25:827][234]LogSavePackage: Moving output files for package: /Game/Audio/Bg_1
+[2023.05.09-15.20.25:828][234]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_1573FA4564EE9F9234830958970F1D96B.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_1.uasset'
+[2023.05.09-15.20.25:878][235]AssetCheck: New page: Asset Save: Bg_1
+[2023.05.09-15.20.25:878][235]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_1.Bg_1
+[2023.05.09-15.20.27:103][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.20.27:103][292]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.20.27:103][292]LogSlate: Window 'MagnetMechanicsTP Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.09-15.20.27:115][292]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.20.27:115][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.20.27:130][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.09-15.20.27:135][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.20.27:170][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.20.27:170][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.09-15.20.27:172][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.09-15.20.27:179][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.09-15.20.27:203][293]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.09-15.20.28:853][391]AssetReimport: Reimported asset Bg_1 from C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 1.wav.
+[2023.05.09-15.20.31:945][577]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.09-15.20.31:952][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.09-15.20.31:952][577]PIE: New page: PIE session: MainMenuLevel (9 May 2023, 17:20:31)
+[2023.05.09-15.20.31:952][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.20.31:955][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002085s)
+[2023.05.09-15.20.31:955][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002151s)
+[2023.05.09-15.20.31:955][577]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.20.31:955][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.20.31:955][577]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.20.31:955][577]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2023.05.09-15.20.31:986][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.09-15.20.31:986][577]LogTemp: Warning: Found class WBP_MultiplayerMenu_C
+[2023.05.09-15.20.31:987][577]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.09-15.20.31:987][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.09-15.20.31:987][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.09-15.20.31:987][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.09-15.20.31:987][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.09-15.20.31:987][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.09-15.20.31:989][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.09-15.20.32:002][577]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.09-15.20.32:003][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.09-15.20.32:003][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.09-15.20.32:003][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.09-15.20.32:003][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.05.09-15.20.32:003][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.05.09-15.20.32:005][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.05.09-15.20.32:005][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.05.09-15.20.32:005][577]LogInit: FAudioDevice initialized.
+[2023.05.09-15.20.32:005][577]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenuLevel'.
+[2023.05.09-15.20.32:046][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.20.32:047][577]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.20.32:048][577]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.20.32
+[2023.05.09-15.20.32:048][577]LogWorld: Bringing up level for play took: 0.001336
+[2023.05.09-15.20.32:051][577]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.05.09-15.20.32:054][577]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.09-15.20.32:054][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.09-15.20.32:057][577]PIE: Server logged in
+[2023.05.09-15.20.32:060][577]PIE: Play in editor total start time 0.108 seconds.
+[2023.05.09-15.20.32:100][577]LogViewport: Scene viewport resized to 1913x960, mode Windowed.
+[2023.05.09-15.20.36:618][843]LogNet: Browse: /Game/OptionsLevel
+[2023.05.09-15.20.36:618][843]LogLoad: LoadMap: /Game/OptionsLevel
+[2023.05.09-15.20.36:618][843]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.20.36:618][843]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.20.36:618][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.20.36:694][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.20.36:696][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.09-15.20.36:705][843]LogAudio: Display: Audio Device (ID: 8) registered with world 'OptionsLevel'.
+[2023.05.09-15.20.36:705][843]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.20.36:705][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.20.36:705][843]LogAIModule: Creating AISystem for world OptionsLevel
+[2023.05.09-15.20.36:706][843]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2023.05.09-15.20.36:706][843]LogLoad: Game class is 'OptionsGameMode_C'
+[2023.05.09-15.20.36:706][843]LogWorld: Bringing World /Game/UEDPIE_0_OptionsLevel.OptionsLevel up for play (max tick rate 60) at 2023.05.09-16.20.36
+[2023.05.09-15.20.36:706][843]LogWorld: Bringing up level for play took: 0.000385
+[2023.05.09-15.20.36:706][843]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.09-15.20.36:709][843]LogLoad: Took 0.090525 seconds to LoadMap(/Game/OptionsLevel)
+[2023.05.09-15.20.38:072][925]LogNet: Browse: /Game/MainMenuLevel
+[2023.05.09-15.20.38:072][925]LogLoad: LoadMap: /Game/MainMenuLevel
+[2023.05.09-15.20.38:072][925]LogWorld: BeginTearingDown for /Game/UEDPIE_0_OptionsLevel
+[2023.05.09-15.20.38:072][925]LogWorld: UWorld::CleanupWorld for OptionsLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.20.38:072][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.20.38:102][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.20.38:106][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.09-15.20.38:108][925]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.20.38:110][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001778s)
+[2023.05.09-15.20.38:110][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001849s)
+[2023.05.09-15.20.38:110][925]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenuLevel'.
+[2023.05.09-15.20.38:110][925]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.20.38:110][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.20.38:110][925]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.20.38:110][925]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2023.05.09-15.20.38:110][925]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.20.38:111][925]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.20.38
+[2023.05.09-15.20.38:111][925]LogWorld: Bringing up level for play took: 0.000508
+[2023.05.09-15.20.38:111][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.09-15.20.38:112][925]LogLoad: Took 0.040654 seconds to LoadMap(/Game/UEDPIE_0_MainMenuLevel)
+[2023.05.09-15.20.50:653][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.20.50:653][675]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.20.50:653][675]LogSlate: Window 'MagnetMechanicsTP Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.09-15.20.50:658][675]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.20.50:659][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.20.50:675][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.09-15.20.50:681][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.20.50:718][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.09-15.20.50:720][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.09-15.20.50:727][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.09-15.20.50:748][676]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.09-15.21.37:659][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.09-15.21.37:669][437]LogSavePackage: Moving output files for package: /Game/MainMenuLevel
+[2023.05.09-15.21.37:670][437]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MainMenuLevelABC42509427BAC5BBC170F9BF5CC2618.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/MainMenuLevel.umap'
+[2023.05.09-15.21.37:680][437]LogFileHelpers: Saving map 'MainMenuLevel' took 0.054
+[2023.05.09-15.21.37:693][437]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.09-15.21.37:694][437]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2023.05.09-15.22.22:063][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Char.BP_Char
+[2023.05.09-15.22.22:064][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.24.16:546][684]AssetReimport: New page: Outstanding source content changes 17:24:16
+[2023.05.09-15.24.16:548][684]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bullet.wav)
+[2023.05.09-15.24.16:725][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bullet" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bullet.uasset" SILENT=true
+[2023.05.09-15.24.16:727][685]LogSavePackage: Moving output files for package: /Game/Audio/Bullet
+[2023.05.09-15.24.16:727][685]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/BulletF3D3CB9B458444301B5D3291B1F417A0.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bullet.uasset'
+[2023.05.09-15.24.16:847][686]AssetCheck: New page: Asset Save: Bullet
+[2023.05.09-15.24.16:847][686]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bullet.Bullet
+[2023.05.09-15.24.19:822][834]AssetReimport: Importing new asset /Game/Audio/Bullet.
+[2023.05.09-15.24.27:117][235]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Char
+[2023.05.09-15.24.27:117][235]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/BP_Char905B96B5499DCC2C56406B9F98B15E3C.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Blueprints/BP_Char.uasset'
+[2023.05.09-15.24.27:132][235]AssetCheck: New page: Asset Save: BP_Char
+[2023.05.09-15.24.27:132][235]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_Char.BP_Char
+[2023.05.09-15.24.29:160][355]BlueprintLog: New page: Compile BP_Char
+[2023.05.09-15.24.29:425][355]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Character_ABP_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Character_ABP_C_2
+	Function /Game/ThirdPerson/Animation/Character_ABP.Character_ABP_C:ExecuteUbergraph_Character_ABP:0175
+[2023.05.09-15.24.29:425][355]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Character_ABP_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Character_ABP_C_2
+	Function /Game/ThirdPerson/Animation/Character_ABP.Character_ABP_C:ExecuteUbergraph_Character_ABP:01A3
+[2023.05.09-15.24.29:425][355]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	Character_ABP_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Character_ABP_C_2
+	Function /Game/ThirdPerson/Animation/Character_ABP.Character_ABP_C:ExecuteUbergraph_Character_ABP:00D2
+[2023.05.09-15.24.29:425][355]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	Character_ABP_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Character_ABP_C_2
+	Function /Game/ThirdPerson/Animation/Character_ABP.Character_ABP_C:ExecuteUbergraph_Character_ABP:0111
+[2023.05.09-15.24.29:466][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.09-15.24.30:052][371]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.09-15.24.30:060][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.09-15.24.30:060][371]PIE: New page: PIE session: MainMenuLevel (9 May 2023, 17:24:30)
+[2023.05.09-15.24.30:060][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.24.30:062][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2023.05.09-15.24.30:062][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenuLevel.MainMenuLevel to /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002382s)
+[2023.05.09-15.24.30:062][371]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.24.30:062][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.24.30:064][371]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.09-15.24.30:064][371]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2023.05.09-15.24.30:106][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.09-15.24.30:107][371]LogTemp: Warning: Found class WBP_MultiplayerMenu_C
+[2023.05.09-15.24.30:107][371]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.09-15.24.30:107][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.09-15.24.30:107][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.09-15.24.30:108][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.09-15.24.30:108][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.09-15.24.30:108][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.09-15.24.30:110][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.09-15.24.30:123][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.09-15.24.30:123][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.09-15.24.30:123][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.09-15.24.30:123][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.09-15.24.30:124][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.09-15.24.30:124][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.09-15.24.30:126][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.09-15.24.30:126][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.09-15.24.30:126][371]LogInit: FAudioDevice initialized.
+[2023.05.09-15.24.30:126][371]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenuLevel'.
+[2023.05.09-15.24.30:174][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.24.30:174][371]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.05.09-15.24.30:176][371]LogWorld: Bringing World /Game/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.09-16.24.30
+[2023.05.09-15.24.30:176][371]LogWorld: Bringing up level for play took: 0.001486
+[2023.05.09-15.24.30:179][371]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.05.09-15.24.30:182][371]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.09-15.24.30:182][371]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.09-15.24.30:201][371]PIE: Server logged in
+[2023.05.09-15.24.30:214][371]PIE: Play in editor total start time 0.154 seconds.
+[2023.05.09-15.24.30:250][371]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2023.05.09-15.24.33:340][549]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.09-15.24.33:340][549]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.09-15.24.33:341][549]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.05.09-15.24.33:341][549]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.05.09-15.24.33:341][549]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenuLevel
+[2023.05.09-15.24.33:342][549]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.24.33:342][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.24.33:410][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.24.33:412][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.09-15.24.33:427][549]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.09-15.24.33:429][549]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2023.05.09-15.24.33:429][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.24.33:429][549]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.09-15.24.33:430][549]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.09-15.24.33:430][549]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.09-15.24.33:432][549]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.09-15.24.33:432][549]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.09-15.24.33:432][549]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.09-15.24.33:432][549]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.09-15.24.33:432][549]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.05.09-15.24.33:432][549]LogWorldPartition: Display: GetPartitionedActors took 45 us
+[2023.05.09-15.24.33:478][549]LogWorldPartition: Display: GenerateStreaming took 47 ms
+[2023.05.09-15.24.33:480][549]LogWorldPartition: Display: WorldPartition initialize took 50 ms
+[2023.05.09-15.24.33:480][549]LogPlayLevel: PIE: World Init took: (0.051395s)
+[2023.05.09-15.24.33:480][549]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.09-15.24.33:484][549]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.09-16.24.33
+[2023.05.09-15.24.33:486][549]LogWorld: Bringing up level for play took: 0.006393
+[2023.05.09-15.24.33:488][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Char.BP_Char_C:ExecuteUbergraph_BP_Char'!
+[2023.05.09-15.24.33:490][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/ThirdPerson/Blueprints/BP_Char.BP_Char_C:ExecuteUbergraph_BP_Char'!
+[2023.05.09-15.24.33:491][549]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=243.788 Y=-2747.962 Z=592.013
+[2023.05.09-15.24.33:491][549]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.05.09-15.24.33:491][549]LogLoad: Took 0.150043 seconds to LoadMap(/Game/ThirdPerson/Maps/ThirdPersonMap)
+[2023.05.09-15.24.42:543][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.09-15.24.42:543][ 66]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.09-15.24.42:543][ 66]LogSlate: Window 'MagnetMechanicsTP Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.09-15.24.42:551][ 66]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.24.42:552][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.24.42:569][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.09-15.24.42:576][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.24.42:623][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.24.42:623][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.09-15.24.42:625][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.09-15.24.42:637][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.09-15.24.42:664][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.05.09-15.24.45:434][217]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Char
+[2023.05.09-15.24.45:434][217]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/BP_Char19C6844E42437541FB2EB9B8F78D9615.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Blueprints/BP_Char.uasset'
+[2023.05.09-15.24.45:450][217]AssetCheck: New page: Asset Save: BP_Char
+[2023.05.09-15.24.45:450][217]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_Char.BP_Char
+[2023.05.09-15.24.56:788][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.09-15.24.56:797][697]LogSavePackage: Moving output files for package: /Game/MainMenuLevel
+[2023.05.09-15.24.56:797][697]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MainMenuLevelD5A8B60640A209AEFDFE8F86A27605E3.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/MainMenuLevel.umap'
+[2023.05.09-15.24.56:809][697]LogFileHelpers: Saving map 'MainMenuLevel' took 0.060
+[2023.05.09-15.24.56:823][697]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.09-15.24.56:823][697]LogContentValidation: Display: Validating World /Game/MainMenuLevel.MainMenuLevel
+[2023.05.09-15.25.30:135][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.09-15.25.30:213][624]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.05.09-15.25.30:213][624]LightingResults: New page: Lighting Build
+[2023.05.09-15.25.30:213][624]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.05.09-15.25.30:242][624]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.25.30:242][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.25.30:286][624]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.25.30:286][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.25.30:286][624]MapCheck: New page: Map Check
+[2023.05.09-15.25.30:286][624]LightingResults: New page: Lighting Build
+[2023.05.09-15.25.30:327][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.25.30:333][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.05.09-15.25.30:342][624]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.25.30:342][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.25.30:381][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.09-15.25.30:415][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.09-15.25.30:433][624]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.05.09-15.25.30:434][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.25.30:434][624]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.09-15.25.30:434][624]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.09-15.25.30:434][624]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.09-15.25.30:486][624]LogWorldPartition: Display: WorldPartition initialize took 51 ms
+[2023.05.09-15.25.30:495][624]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.25.30:540][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.09-15.25.30:553][624]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.25.30:554][624]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.252ms to complete.
+[2023.05.09-15.25.30:554][624]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.341
+[2023.05.09-15.25.59:709][ 63]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Bg_1.Bg_1
+[2023.05.09-15.26.03:973][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_1" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_1.uasset" SILENT=true
+[2023.05.09-15.26.04:026][292]LogSavePackage: Moving output files for package: /Game/Audio/Bg_1
+[2023.05.09-15.26.04:027][292]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_10E1B44A34815F9AFE87D8698E086D8BC.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_1.uasset'
+[2023.05.09-15.26.04:051][292]AssetCheck: New page: Asset Save: Bg_1
+[2023.05.09-15.26.04:051][292]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_1.Bg_1
+[2023.05.09-15.27.10:952][926]AssetReimport: New page: Outstanding source content changes 17:27:10
+[2023.05.09-15.27.10:987][927]LogAudioEditor: Performing atomic reimport of [C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 2.wav]
+[2023.05.09-15.27.10:994][927]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 2.wav)
+[2023.05.09-15.27.11:223][927]LogAudioEditor: -- imported successfully
+[2023.05.09-15.27.11:602][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_2" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_2.uasset" SILENT=true
+[2023.05.09-15.27.11:605][928]LogSavePackage: Moving output files for package: /Game/Audio/Bg_2
+[2023.05.09-15.27.11:606][928]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_20BE849974C864E54ACA85BB3639E8DA3.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_2.uasset'
+[2023.05.09-15.27.11:639][929]AssetCheck: New page: Asset Save: Bg_2
+[2023.05.09-15.27.11:639][929]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_2.Bg_2
+[2023.05.09-15.27.14:199][ 63]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Bg_2.Bg_2
+[2023.05.09-15.27.14:619][ 84]AssetReimport: Reimported asset Bg_2 from C:/Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg 2.wav.
+[2023.05.09-15.27.17:060][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Bg_2" FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_2.uasset" SILENT=true
+[2023.05.09-15.27.17:062][226]LogSavePackage: Moving output files for package: /Game/Audio/Bg_2
+[2023.05.09-15.27.17:063][226]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Bg_290F286F14EBF57D4AF849A9EF4EA5902.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Audio/Bg_2.uasset'
+[2023.05.09-15.27.17:075][226]AssetCheck: New page: Asset Save: Bg_2
+[2023.05.09-15.27.17:076][226]LogContentValidation: Display: Validating SoundWave /Game/Audio/Bg_2.Bg_2
+[2023.05.09-15.27.20:518][417]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Char
+[2023.05.09-15.27.20:519][417]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/BP_Char91D825374E22C457105177A4DC9BAC99.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Blueprints/BP_Char.uasset'
+[2023.05.09-15.27.20:533][417]AssetCheck: New page: Asset Save: BP_Char
+[2023.05.09-15.27.20:533][417]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_Char.BP_Char
+[2023.05.09-15.27.31:229][ 46]LogSlate: Window 'BP_Char' being destroyed
+[2023.05.09-15.27.31:235][ 46]LogSlate: Window 'BP_Char' being destroyed
+[2023.05.09-15.27.31:242][ 46]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.27.31:242][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.27.33:839][188]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2023.05.09-15.27.33:839][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.27.48:618][968]LogFileHelpers: No new changes to save!
+[2023.05.09-15.27.48:658][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.09-15.27.48:671][968]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.05.09-15.27.48:672][968]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/ThirdPersonMap11B39E9245A07C303ECFB094C42C3A6E.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.05.09-15.27.48:698][968]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.080
+[2023.05.09-15.27.48:715][968]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2023.05.09-15.27.48:715][968]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.05.09-15.27.49:500][ 15]BlueprintLog: New page: Compile ThirdPersonMap
+[2023.05.09-15.27.49:558][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.09-15.27.50:573][ 72]LogFileHelpers: No new changes to save!
+[2023.05.09-15.27.50:610][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.09-15.27.50:618][ 72]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.05.09-15.27.50:618][ 72]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/ThirdPersonMapF1FEDA5C4F69EA791232178A075E2F4F.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.05.09-15.27.50:628][ 72]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.056
+[2023.05.09-15.27.50:644][ 72]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2023.05.09-15.27.50:644][ 72]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.05.09-15.27.51:127][101]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2023.05.09-15.27.51:134][101]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2023.05.09-15.27.51:141][101]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.27.51:141][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.28.06:430][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.05.09-15.28.08:037][  8]LogSlate: Window 'Save Content' being destroyed
+[2023.05.09-15.28.08:301][  8]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Char
+[2023.05.09-15.28.08:302][  8]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/BP_Char3BFF48F04C9E0F78F4D8209FFA4C1F97.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Blueprints/BP_Char.uasset'
+[2023.05.09-15.28.08:435][  8]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NetworkingMenu_Level.NetworkingMenu_Level
+[2023.05.09-15.28.08:435][  8]Cmd: MAP LOAD FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Levels/NetworkingMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.09-15.28.08:435][  8]LightingResults: New page: Lighting Build
+[2023.05.09-15.28.08:435][  8]LoadErrors: New page: Loading map: NetworkingMenu_Level.umap
+[2023.05.09-15.28.08:437][  8]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.28.08:438][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.28.08:443][  8]MapCheck: New page: Map Check
+[2023.05.09-15.28.08:443][  8]LightingResults: New page: Lighting Build
+[2023.05.09-15.28.08:475][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.28.08:481][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.05.09-15.28.08:484][  8]LogWorld: UWorld::CleanupWorld for NetworkingMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.28.08:484][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.28.08:514][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.09-15.28.08:545][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.09-15.28.08:549][  8]LogAudio: Display: Audio Device (ID: 1) registered with world 'NetworkingMenu_Level'.
+[2023.05.09-15.28.08:549][  8]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.09-15.28.08:549][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.28.08:549][  8]LogAIModule: Creating AISystem for world NetworkingMenu_Level
+[2023.05.09-15.28.08:551][  8]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.28.08:582][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.09-15.28.08:593][  8]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.28.08:593][  8]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2023.05.09-15.28.08:593][  8]LogFileHelpers: Loading map 'NetworkingMenu_Level' took 0.158
+[2023.05.09-15.28.08:620][  8]AssetCheck: New page: Asset Save: BP_Char
+[2023.05.09-15.28.08:620][  8]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_Char.BP_Char
+[2023.05.09-15.28.12:084][208]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/NetworkingMenu_Level.NetworkingMenu_Level:PersistentLevel.NetworkingMenu_Level
+[2023.05.09-15.28.12:084][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.28.26:134][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.09-15.28.26:139][958]LogSavePackage: Moving output files for package: /Game/Levels/NetworkingMenu_Level
+[2023.05.09-15.28.26:140][958]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/NetworkingMenu_LevelDA02C39043531FE8B6F86E89FDA78EBC.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Levels/NetworkingMenu_Level.umap'
+[2023.05.09-15.28.26:151][958]LogFileHelpers: Saving map 'NetworkingMenu_Level' took 0.052
+[2023.05.09-15.28.26:165][958]AssetCheck: New page: Asset Save: NetworkingMenu_Level
+[2023.05.09-15.28.26:165][958]LogContentValidation: Display: Validating World /Game/Levels/NetworkingMenu_Level.NetworkingMenu_Level
+[2023.05.09-15.28.27:487][ 37]BlueprintLog: New page: Compile NetworkingMenu_Level
+[2023.05.09-15.28.27:537][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.09-15.28.28:197][ 74]LogSlate: Window 'NetworkingMenu_Level' being destroyed
+[2023.05.09-15.28.28:209][ 74]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.28.28:209][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.28.36:244][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.09-15.28.37:576][549]LogSlate: Window 'Save Content' being destroyed
+[2023.05.09-15.28.37:679][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.09-15.28.37:685][549]LogSavePackage: Moving output files for package: /Game/Levels/NetworkingMenu_Level
+[2023.05.09-15.28.37:686][549]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/NetworkingMenu_LevelF7B27ECF437C35608C282B9FE351E522.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/Levels/NetworkingMenu_Level.umap'
+[2023.05.09-15.28.37:696][549]LogFileHelpers: Saving map 'NetworkingMenu_Level' took 0.046
+[2023.05.09-15.28.37:793][549]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Lobby.Lobby
+[2023.05.09-15.28.37:793][549]Cmd: MAP LOAD FILE="../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.09-15.28.37:793][549]LightingResults: New page: Lighting Build
+[2023.05.09-15.28.37:793][549]LoadErrors: New page: Loading map: Lobby.umap
+[2023.05.09-15.28.37:794][549]LogWorld: UWorld::CleanupWorld for NetworkingMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.28.37:795][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.28.37:795][549]MapCheck: New page: Map Check
+[2023.05.09-15.28.37:795][549]LightingResults: New page: Lighting Build
+[2023.05.09-15.28.37:821][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.28.37:823][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.09-15.28.37:825][549]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.28.37:825][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.28.37:852][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.05.09-15.28.37:878][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.09-15.28.37:891][549]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2023.05.09-15.28.37:891][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.28.37:891][549]LogAIModule: Creating AISystem for world Lobby
+[2023.05.09-15.28.37:891][549]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.09-15.28.37:891][549]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.09-15.28.37:909][549]LogLinker: Warning: [AssetLog] C:\Users\omar1\OneDrive\Desktop\Azure Projects\MagnetMechanicsTPREPO\MagnetMechanicsTP\Content\__ExternalActors__\ThirdPerson\Maps\Lobby\3\06\BBV62DCU37BGXBYE8CH60B.uasset: Failed to load '/Game/ThirdPerson/Blueprints/BP_PressurePlate': Can't find file.
+[2023.05.09-15.28.37:910][549]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPerson/Blueprints/BP_PressurePlate'
+[2023.05.09-15.28.37:912][549]LogWorldPartition: Warning: Can't load actor guid `C60097A443FE63D835A6C59333FDF4EF` ('BP_PressurePlate_C_UAID_902E16D47CEBD57D01_1445353647') from package '/Game/__ExternalActors__/ThirdPerson/Maps/Lobby/3/06/BBV62DCU37BGXBYE8CH60B'
+[2023.05.09-15.28.37:948][549]LogWorldPartition: Display: WorldPartition initialize took 56 ms
+[2023.05.09-15.28.37:956][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.28.37:988][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.09-15.28.37:998][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.28.37:998][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2023.05.09-15.28.37:998][549]LogFileHelpers: Loading map 'Lobby' took 0.206
+[2023.05.09-15.28.38:021][549]AssetCheck: New page: Asset Save: NetworkingMenu_Level
+[2023.05.09-15.28.38:021][549]LogContentValidation: Display: Validating World /Game/Levels/NetworkingMenu_Level.NetworkingMenu_Level
+[2023.05.09-15.28.38:027][549]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PpTriggerVolume': BP_PressurePlate_C /Game/ThirdPerson/Maps/Lobby.Lobby:PersistentLevel.BP_PressurePlate_C_UAID_902E16D47CEBD57D01_1445353647
+[2023.05.09-15.28.38:027][549]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PpPad': BP_PressurePlate_C /Game/ThirdPerson/Maps/Lobby.Lobby:PersistentLevel.BP_PressurePlate_C_UAID_902E16D47CEBD57D01_1445353647
+[2023.05.09-15.28.40:226][665]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/Lobby.Lobby:PersistentLevel.Lobby
+[2023.05.09-15.28.40:227][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.28.57:537][577]LogFileHelpers: No new changes to save!
+[2023.05.09-15.28.57:577][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.09-15.28.57:584][577]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Lobby
+[2023.05.09-15.28.57:586][577]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Lobby6E3D9EA142886EB4AD3C67BC5C388B21.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/Lobby.umap'
+[2023.05.09-15.28.57:597][577]LogFileHelpers: Saving map 'Lobby' took 0.060
+[2023.05.09-15.28.57:613][577]AssetCheck: New page: Asset Save: Lobby
+[2023.05.09-15.28.57:613][577]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Lobby.Lobby
+[2023.05.09-15.28.58:432][626]BlueprintLog: New page: Compile Lobby
+[2023.05.09-15.28.58:487][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.09-15.28.59:479][682]LogFileHelpers: No new changes to save!
+[2023.05.09-15.28.59:515][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.09-15.28.59:521][682]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Lobby
+[2023.05.09-15.28.59:522][682]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/Lobby0FD390774368E9C6D8208D8019695EBE.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/Lobby.umap'
+[2023.05.09-15.28.59:534][682]LogFileHelpers: Saving map 'Lobby' took 0.055
+[2023.05.09-15.28.59:547][682]AssetCheck: New page: Asset Save: Lobby
+[2023.05.09-15.28.59:547][682]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Lobby.Lobby
+[2023.05.09-15.29.00:331][729]LogSlate: Window 'Lobby' being destroyed
+[2023.05.09-15.29.00:342][729]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.00:342][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.03:222][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.09-15.29.03:299][873]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap
+[2023.05.09-15.29.03:299][873]LightingResults: New page: Lighting Build
+[2023.05.09-15.29.03:299][873]LoadErrors: New page: Loading map: MultiplayerMap.umap
+[2023.05.09-15.29.03:301][873]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.03:301][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.03:306][873]MapCheck: New page: Map Check
+[2023.05.09-15.29.03:306][873]LightingResults: New page: Lighting Build
+[2023.05.09-15.29.03:331][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.29.03:335][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.09-15.29.03:337][873]LogWorld: UWorld::CleanupWorld for MultiplayerMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.03:337][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.03:338][873]LogWorld: UWorld::CleanupWorld for NetworkingMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.03:338][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.03:366][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.09-15.29.03:393][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.09-15.29.03:406][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'MultiplayerMap'.
+[2023.05.09-15.29.03:406][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.29.03:406][873]LogAIModule: Creating AISystem for world MultiplayerMap
+[2023.05.09-15.29.03:407][873]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.09-15.29.03:407][873]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.09-15.29.03:460][873]LogWorldPartition: Display: WorldPartition initialize took 52 ms
+[2023.05.09-15.29.03:468][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.29.03:497][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.09-15.29.03:510][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.29.03:511][873]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2023.05.09-15.29.03:511][873]LogFileHelpers: Loading map 'MultiplayerMap' took 0.212
+[2023.05.09-15.29.06:182][ 22]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap:PersistentLevel.MultiplayerMap
+[2023.05.09-15.29.06:183][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.29.16:595][547]LogFileHelpers: No new changes to save!
+[2023.05.09-15.29.16:635][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.09-15.29.16:641][547]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MultiplayerMap
+[2023.05.09-15.29.16:642][547]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MultiplayerMap4CD4626F4398572199670AAE1593243E.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/MultiplayerMap.umap'
+[2023.05.09-15.29.16:654][547]LogFileHelpers: Saving map 'MultiplayerMap' took 0.059
+[2023.05.09-15.29.16:668][547]AssetCheck: New page: Asset Save: MultiplayerMap
+[2023.05.09-15.29.16:668][547]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap
+[2023.05.09-15.29.17:132][574]BlueprintLog: New page: Compile MultiplayerMap
+[2023.05.09-15.29.17:199][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.05.09-15.29.17:896][614]LogSlate: Window 'MultiplayerMap' being destroyed
+[2023.05.09-15.29.17:907][614]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.17:907][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.20:560][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.09-15.29.21:715][760]LogSlate: Window 'Save Content' being destroyed
+[2023.05.09-15.29.21:804][760]LogFileHelpers: No new changes to save!
+[2023.05.09-15.29.21:848][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.05.09-15.29.21:857][760]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MultiplayerMap
+[2023.05.09-15.29.21:858][760]LogSavePackage: Moving '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Saved/MultiplayerMapAA3B577F461F8C1D2F81B28E5C426B3F.tmp' to '../../../../../../Users/omar1/OneDrive/Desktop/Azure Projects/MagnetMechanicsTPREPO/MagnetMechanicsTP/Content/ThirdPerson/Maps/MultiplayerMap.umap'
+[2023.05.09-15.29.21:876][760]LogFileHelpers: Saving map 'MultiplayerMap' took 0.074
+[2023.05.09-15.29.21:997][760]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.05.09-15.29.21:997][760]LightingResults: New page: Lighting Build
+[2023.05.09-15.29.21:997][760]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.05.09-15.29.21:999][760]LogWorld: UWorld::CleanupWorld for MultiplayerMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.21:999][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.22:005][760]MapCheck: New page: Map Check
+[2023.05.09-15.29.22:005][760]LightingResults: New page: Lighting Build
+[2023.05.09-15.29.22:031][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.09-15.29.22:036][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.09-15.29.22:038][760]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.22:038][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.09-15.29.22:067][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.09-15.29.22:093][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.09-15.29.22:123][760]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.05.09-15.29.22:123][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.29.22:123][760]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.09-15.29.22:124][760]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.09-15.29.22:124][760]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.09-15.29.22:165][760]LogWorldPartition: Display: WorldPartition initialize took 41 ms
+[2023.05.09-15.29.22:174][760]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.09-15.29.22:206][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.09-15.29.22:215][760]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.09-15.29.22:215][760]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2023.05.09-15.29.22:215][760]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.218
+[2023.05.09-15.29.22:238][760]AssetCheck: New page: Asset Save: MultiplayerMap
+[2023.05.09-15.29.22:238][760]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MultiplayerMap.MultiplayerMap
+[2023.05.09-15.29.23:654][837]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2023.05.09-15.29.23:654][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.09-15.29.26:568][977]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2023.05.09-15.29.26:573][977]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2023.05.09-15.29.26:579][977]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.09-15.29.26:579][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
